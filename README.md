@@ -24,6 +24,8 @@
 
 4.全屏智能覆盖翻译（智能采样、多行合并）
 
+5.手柄按键映射，自定义手柄按键绑定特定功能
+
 <img src="display.png"/>
 
 ## 一、翻译功能
@@ -60,6 +62,11 @@
 
 <img src="glossary.png"/>
 <img src="translator.png"/>
+
+
+### 2、手柄按键映射
+<img src="mapping.png"/>
+
 
 
 ## 捐助项目

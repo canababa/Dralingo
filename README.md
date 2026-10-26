@@ -1,15 +1,9 @@
 <div align="center">
-<img src="markdown/images/head-cover.png" alt="icon"/>
+<img src="head-cover.png" alt="icon"/>
 
-# 萌译MoeTranslate
+# 龙译-Dralingo
 
-一键翻译图片文字内容，让您和非中文游戏的距离不再遥远；不仅如此，还支持Gemini聊天和Live2D。
-
-更多内容请查看下方的官网。
-
-[![Web](https://img.shields.io/badge/%E7%BD%91%E7%AB%99-%E5%AE%98%E7%BD%91-red?logo=data:image/png;base64,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)](https://www.moetranslate.top)
-[![Github](https://img.shields.io/badge/Github-Release-blue?logo=Github)](https://github.com/murangogo/MoeTranslate/releases)
-[![Download](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-Ver5.5.1-green?logo=Android&logoColor=green)](https://www.moetranslate.top/download/downloadlink/)
+专业游戏掌机玩家开发的翻译软件，由萌译MoeTranslator基础上，二次开发莱尔，特此感谢萌译大佬开源。
 
 </div>
 
@@ -17,7 +11,17 @@
 
 萌译是一款安卓端的翻译软件，基于Android 11+的无障碍截图权限开发。
 
-<img src="markdown/images/display.png"/>
+-特色功能：
+
+1.双选区翻译，第二选区可自定义，可同时自动翻译
+
+2.术语库匹配（自定义属性后缀、双语双向匹配）
+
+3.自动翻译（帧差检测、文本缓存匹配、智能省电）
+
+4.全屏智能覆盖翻译（智能采样、多行合并）
+
+<img src="display.png"/>
 
 支持两种模式：
 

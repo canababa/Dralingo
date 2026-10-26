@@ -5,7 +5,7 @@
 
 专为游戏掌机玩家开发的翻译软件，由萌译MoeTranslator基础上，二次开发而来，特此感谢萌译大佬开源。
 
-完全免费，无广告，为爱发电！ 如果深得你心，请我喝杯咖啡吧。[～咖啡～咖啡]([[链接地址] "请我喝杯咖啡吧")
+完全免费，无广告，为爱发电！ 如果深得你心，请我喝杯咖啡吧。[～咖啡～咖啡](https://raw.githubusercontent.com/canababa/Dralingo/refs/heads/main/pay.png"请我喝杯咖啡吧")
 
 
 </div>

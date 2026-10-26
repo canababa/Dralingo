@@ -75,7 +75,7 @@
 <img src="mapping.png"/>
 
 ### 3、历史记录工能
-<img src="histroy"/>
+<img src="histroy.png"/>
 
 
 

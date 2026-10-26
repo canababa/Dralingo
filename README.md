@@ -7,7 +7,10 @@
 
 </div>
 
-## 简介
+
+## 使用介绍请查看B站：
+
+## 简介 
 
 萌译是一款安卓端的翻译软件，基于Android 11+的无障碍截图权限开发。
 
@@ -43,8 +46,6 @@
 
 5.可在个性化设置页面中自定义设置
 
-
-
 <img src="menu.png"/>
 
 <img src="use.png"/>
@@ -57,12 +58,13 @@
 
 ### 1、术语库匹配功能
 
-<img src="markdown/images/l2d.png"/>
+<img src="glossary.png"/>
+<img src="translator.png"/>
 
 
 ## 捐助项目
 
-如果您想给开发者物质上的帮助，可以[点击此处](https://www.moetranslate.top/support/)来捐赠。
+如果您想给开发者物质上的帮助，请问喝杯咖啡。
 
 ## 使用到的其他开源项目
 
